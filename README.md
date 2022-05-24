@@ -33,7 +33,7 @@
  
  ### 🎧 Spotify Playing
 
-![spotify-github-profile](/img/default.svg)
+![spotify-github-profile](default.svg)
  
  <h3> <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px">&nbsp; GitHub Streak</h3>
  
