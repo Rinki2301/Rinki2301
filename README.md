@@ -6,8 +6,8 @@
 </div>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rinki2301" alt="Rinki2301" /> </p>
-
-<img align= "right" alt="GIF" src="https://raw.githubusercontent.com/Rinki2301/Rinki2301/main/coder.gif" width="500" height="320" />
+<p align ="center">
+<img align= "left" alt="GIF" src="https://raw.githubusercontent.com/Rinki2301/Rinki2301/main/coder.gif" width="500" height="320" /> </p>
 
 - 🔭 I’m currently working on **Machine learning**
 
