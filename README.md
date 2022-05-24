@@ -31,7 +31,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rinki2301&show_icons=true&locale=en&layout=compact" alt="rinki" /></p>
  
  <h3> <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px">&nbsp; GitHub Streak</h3>
+ 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rinki2301&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
+ 
 <br>
 
 [![Rinki's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rinki2301&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/Rinki2301/github-readme-activity-graph)
