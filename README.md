@@ -2,8 +2,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Rinki Raghuvanshi</h1>
 <h3 align="center">A passionate Developer & Coder from India</h3>
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src=https://readme-typing-svg.herokuapp.com?color=C9F704&lines=Welcome+to+my+profile.;+Please+feel+free+to+clone%2Ffork+;+projects%2C+raise+issues+and+submit+PRs++" alt="tYPING SVG"></a>
-</div>
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=A+Girl+trying+to+Figure-Out+Stuff!!+)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navinkt&label=Profile%20views&color=0e75b6&style=flat" alt="navinkt" /> </p>
 
