@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Rinki Raghuvanshi</h1>
 <h3 align="center">A passionate Developer & Coder from India</h3>
-<div align="center">
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=A+Girl+trying+to+Figure-Out+Stuff!!+)](https://git.io/typing-svg)
-</div>
+
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=A+girl+trying+to+Figure-Out+Stuff!!)](https://git.io/typing-svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navinkt&label=Profile%20views&color=0e75b6&style=flat" alt="navinkt" /> </p>
 
 - 🔭 I’m currently working on **Tourism Project**
