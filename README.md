@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rinkiraghu2301@gmail.com**
 
-- ⚡ Fun fact ** I dont really like coding still wanna become SDE **
+- ⚡ Fun fact **I dont really like coding still wanna become SDE**
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h3 align="left"><img src="https://raw.githubusercontent.com/Rinki2301/Rinki2301/main/Handshake.gif" height="25px"/>Connect with me:</h3>
 <p align="left">
