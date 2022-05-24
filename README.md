@@ -1,4 +1,4 @@
- <img align="center" width="450px" src="https://www.keepsolid.com/blog/wp-content/uploads/2018/12/giphy-article-top-tools-for-managers.gif" alt="coder">
+   <img align="center" width="450px" src="https://www.keepsolid.com/blog/wp-content/uploads/2018/12/giphy-article-top-tools-for-managers.gif" alt="coder">
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Rinki Raghuvanshi</h1>
 <h3 align="center">A passionate Developer & Coder from India</h3>
   <div align="center">
