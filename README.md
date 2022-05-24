@@ -1,5 +1,5 @@
   
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Rinki Raghuvanshi</h1>
+<h1 align="center">Hi 👩 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Rinki Raghuvanshi</h1>
 <h3 align="center">A passionate Developer & Coder from India</h3>
   <div align="center">
     <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?lines=A+girl+trying+to+Figure-Out+Stuff!!" alt="tYPING SVG"></a>
@@ -35,6 +35,7 @@
 
  [![navin's github activity graph](https://activity-graph.herokuapp.com/graph?username=Navinkt&theme=react-dark)](https://github.com/Navinkt/github-readme-activity-graph) 
    <hr>   
+   ## Watch my contributions get eaten by a snake 🐍
 <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Rinki2301/Rinki2301/main/output-snake.svg">
 <div align="center">
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navinkt&show_icons=true&locale=en" alt="navinkt" /></p>
