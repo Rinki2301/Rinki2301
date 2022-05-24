@@ -5,15 +5,15 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=A+girl+trying+to+Figure-Out+Stuff!!" alt="tYPING SVG"></a>
 </div>
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=navinkt&label=Profile%20views&color=0e75b6&style=flat" alt="navinkt" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rinki2301&label=Profile%20views&color=0e75b6&style=flat" alt="Rinki2301" /> </p>
 
-- 🔭 I’m currently working on **Tourism Project**
+- 🔭 I’m currently working on **Machine learning**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **WEb-Development**
 
-- 📫 How to reach me **navinpatnacitynav@gmail.com**
+- 📫 How to reach me **rinkiraghu2301@gmail.com**
 
-- ⚡ Fun fact **I think i am a coder**
+- ⚡ Fun fact **I think i am funny**
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
