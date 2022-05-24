@@ -50,4 +50,4 @@
 </div>
        
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
-<div align="center" ><img alt="image footer" width="100%" src="https://raw.githubusercontent.com/Rinki2301/Rinki2301/main/i-love-coding-xl.jpg"></div>
+<div align="center" ><img alt="image footer" width="100%" height=50% src="https://raw.githubusercontent.com/Rinki2301/Rinki2301/main/i-love-coding-xl.jpg"></div>
