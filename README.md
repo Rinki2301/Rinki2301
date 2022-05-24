@@ -7,7 +7,7 @@
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rinki2301" alt="Rinki2301" /> </p>
 
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/Rinki2301/Rinki2301/main/coder.gif" width="500" height="320" />
+<img align= "right" alt="GIF" src="https://raw.githubusercontent.com/Rinki2301/Rinki2301/main/coder.gif" width="500" height="320" />
 
 - 🔭 I’m currently working on **Machine learning**
 
