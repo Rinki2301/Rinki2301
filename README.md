@@ -44,7 +44,7 @@
 
  <h3> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; GitHub Analytics</h3>
 <div align="center">
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navinkt&show_icons=true&locale=en" alt="navinkt" /></p>
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rinki2301&show_icons=true&locale=en" alt="rinki" /></p>
     <a href="https://git.io/typing-svg">
       <table>
   <tr>
