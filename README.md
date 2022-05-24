@@ -41,7 +41,7 @@
     <a href="https://git.io/typing-svg">
       <table>
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanka001tech&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rinki2301tech&theme=monokai"  display=block width=100% height=auto  alt="card" ></td>
    </tr> 
       </table>
         <img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!" >
