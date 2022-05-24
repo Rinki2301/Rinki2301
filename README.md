@@ -1,10 +1,10 @@
-
+ <img align="right" width="450px" src="https://www.keepsolid.com/blog/wp-content/uploads/2018/12/giphy-article-top-tools-for-managers.gif" alt="coder">
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Rinki Raghuvanshi</h1>
 <h3 align="center">A passionate Developer & Coder from India</h3>
   <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=A+girl+trying+to+Figure-Out+Stuff!!" alt="tYPING SVG"></a>
 </div>
-  <img align="right" width="450px" src="https://www.keepsolid.com/blog/wp-content/uploads/2018/12/giphy-article-top-tools-for-managers.gif" alt="coder">
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rinki2301" alt="Rinki2301" /> </p>
 
 - 🔭 I’m currently working on **Machine learning**
