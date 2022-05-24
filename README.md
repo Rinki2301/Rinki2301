@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I think i am funny**
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<h3 align="left"><img src="https://raw.githubusercontent.com/Rinki2301/Rinki2301/main/Handshake.gif" height="33px" />>Connect with me:</h3>
+<h3 align="left"><img src="https://raw.githubusercontent.com/Rinki2301/Rinki2301/main/Handshake.gif" height="33px" />Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/navinku42640452" target="blank"><img align="center" src="https://raw.githubusercontent.com/Navinkt/image/main/twitter.svg" alt="navinku42640452" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rinki-raghuwanshi-094a971a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Navinkt/image/main/linked-in-alt.svg" alt="navin-kumar-5748721a7" height="30" width="40" /></a>
