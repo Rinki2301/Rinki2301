@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Developer & Coder from India</h3>
 <div align="center">
     [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=A+Girl+trying+to+Figure-Out+Stuff!!+)](https://git.io/typing-svg)
-
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navinkt&label=Profile%20views&color=0e75b6&style=flat" alt="navinkt" /> </p>
 
 - 🔭 I’m currently working on **Tourism Project**
