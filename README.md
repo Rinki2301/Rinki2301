@@ -5,7 +5,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=A+girl+trying+to+Figure-Out+Stuff!!" alt="tYPING SVG"></a>
 </div>
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rinki2301&label=Profile%20views&color=0e75b6&style=flat" alt="Rinki2301" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rinki2301" alt="Rinki2301" /> </p>
 
 - 🔭 I’m currently working on **Machine learning**
 
