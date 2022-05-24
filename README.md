@@ -41,7 +41,7 @@
     <a href="https://git.io/typing-svg">
       <table>
   <tr>
-    <td><img src="(http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rinki2301&theme=dracula)"
+    <td> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rinki2301&theme=dracula"
   display=block width=100% height=auto  alt="card" ></td>
    </tr> 
       </table>
