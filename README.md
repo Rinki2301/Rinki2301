@@ -1,4 +1,4 @@
-   <img align="center" width="450px" src="https://www.keepsolid.com/blog/wp-content/uploads/2018/12/giphy-article-top-tools-for-managers.gif" alt="coder">
+  
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Rinki Raghuvanshi</h1>
 <h3 align="center">A passionate Developer & Coder from India</h3>
   <div align="center">
@@ -6,6 +6,8 @@
 </div>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rinki2301" alt="Rinki2301" /> </p>
+
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/Rinki2301/Rinki2301/main/coder.gif" width="500" height="320" />
 
 - 🔭 I’m currently working on **Machine learning**
 
