@@ -54,7 +54,7 @@
     </a>
 </details>
 
- <a href="https://natemoo-jd71l7aa7-rinki2301.vercel.app/now-playing?open">
+ <a href="https://open.spotify.com/playlist/5Bu2nPf28KSOoHJVo0fIrV">
     <img src="https://natemoo-jd71l7aa7-rinki2301.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
 </a>
 
