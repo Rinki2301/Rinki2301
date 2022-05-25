@@ -76,7 +76,7 @@
   display=block width=100% height=auto  alt="card" ></td>
    </tr> 
       </table>
-        <img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!" >
+        <img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?lines=Thanks+for+your+visit!+;Show+%F0%9F%92%95+by+%E2%AD%90+my+repositories!" >
     </a>
 </div>
        
