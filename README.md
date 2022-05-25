@@ -45,6 +45,14 @@
  ### 🎧 Spotify Playing
 
 ![spotify-github-profile](default.svg)
+
+<h2>:zany_face: Joke of the day</h2>
+<details>
+<summary>See joke</summary>
+    <a href="https://github.com/ABSphreak/readme-jokes">
+        <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+    </a>
+</details>
  
  <h3> <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px">&nbsp; GitHub Streak</h3>
  
