@@ -27,11 +27,11 @@
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h3 align="left"><img src="https://raw.githubusercontent.com/Rinki2301/Rinki2301/main/Handshake.gif" height="25px"/>Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/RinkiRaghuwans2" target="blank"><img align="center" src="https://raw.githubusercontent.com/Navinkt/image/main/twitter.svg" alt="rinkitwitter" height="30" width="40" /></a>
+<a href="https://twitter.com/RinkiRaghuwans2" target="blank"><img align="center" src="https://raw.githubusercontent.com/Rinki2301/Rinki2301/main/twitter.svg" alt="rinkitwitter" height="30" width="40" /></a>
   <a href="https://www.instagram.com/_rinki_raghu_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Rinki2301/Rinki2301/main/instagram.svg" alt="_rinki2301" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rinki-raghuwanshi-094a971a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Navinkt/image/main/linked-in-alt.svg" alt="rnki-virat" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rinki-raghuwanshi-094a971a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Rinki2301/Rinki2301/main/linked-in-alt.svg" alt="rnki-virat" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="navinkti" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rinkiraghu2301?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/Navinkt/image/main/hackerrank.svg" alt="@rinkiraghu2301" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/rinkiraghu2301?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/Rinki2301/Rinki2301/main/hackerrank.svg" alt="@rinkiraghu2301" height="30" width="40" /></a>
   <a href="https://leetcode.com/rinki2301/" target="blank">  <img align="center" src="https://raw.githubusercontent.com/Rinki2301/Rinki2301/main/leet-code.svg" alt="rinki" height="30" width="40" />  </a>
 <a href="https://auth.geeksforgeeks.org/user/rinkiraghu2301/practice/" target="blank">  <img align="center" src="https://raw.githubusercontent.com/Rinki2301/Rinki2301/main/geeks-for-geeks.svg" alt="coderocks" height="30" width="40" />  </a>
 </p>
