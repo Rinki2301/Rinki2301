@@ -63,7 +63,7 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=Rinki2301&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" >
 
    <hr>   
- <h3>🐍 <img align="center" src="https://i.imgur.com/x1KbuCq.gif" width="500"></h3>
+ <h3>🐍 <img align="center" src="https://i.imgur.com/x1KbuCq.gif" width="400"></h3>
 <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Rinki2301/Rinki2301/main/output-snake.svg">
 
 
