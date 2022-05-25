@@ -44,7 +44,7 @@
  
  ### 🎧 Spotify Playing
  <!--<img src="https://raw.githubusercontent.com/Rinki2301/Rinki2301/main/spotify.gif" width="200" height="200">-->
- :party_cat:
+ <img src="https://raw.githubusercontent.com/Rinki2301/Rinki2301/main/meow_party.gif">  <img src="https://raw.githubusercontent.com/Rinki2301/Rinki2301/main/meow_party.gif">  <img src="https://raw.githubusercontent.com/Rinki2301/Rinki2301/main/meow_party.gif">
  <a href="https://open.spotify.com/playlist/5Bu2nPf28KSOoHJVo0fIrV">
     <img src="https://natemoo-jd71l7aa7-rinki2301.vercel.app/now-playing" width="280" height="100" alt="Now Playing">
 </a>
