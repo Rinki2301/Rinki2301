@@ -48,7 +48,7 @@
  <img src="https://raw.githubusercontent.com/Rinki2301/Rinki2301/main/meow_party.gif" height="50">
  <br>
  <a href="https://open.spotify.com/playlist/5Bu2nPf28KSOoHJVo0fIrV">
-    <img src="https://natemoo-jd71l7aa7-rinki2301.vercel.app/now-playing" width="280" height="100" alt="Now Playing">
+    <img src="https://natemoo-jd71l7aa7-rinki2301.vercel.app/now-playing" width="260" height="80" alt="Now Playing">
 </a>
 
 <!--![spotify-github-profile](default.svg)-->
