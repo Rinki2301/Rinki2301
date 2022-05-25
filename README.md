@@ -5,6 +5,11 @@
     <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?lines=A+girl+trying+to+Figure-Out+Stuff!!" alt="tYPING SVG"></a>
 </div>
  
+ <p>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:Rinki2301"></a>
+  <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
+</p>
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rinki2301" alt="Rinki2301" /> </p>
 <p align ="center">
 <img align= "left" alt="GIF" src="https://raw.githubusercontent.com/Rinki2301/Rinki2301/main/coder.gif" width="500" height="320" /> </p>
