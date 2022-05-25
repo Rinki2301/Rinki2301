@@ -51,7 +51,7 @@
  
 <br>
 
-[![Rinki's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rinki2301&theme=react-dark)](https://github.com/Rinki2301/github-readme-activity-graph)
+[![Rinki's github activity graph]<img src="https://activity-graph.herokuapp.com/graph?username=Rinki2301tech&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" >
 
    <hr>   
   <b>Snake Game</b>🐍
