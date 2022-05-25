@@ -65,6 +65,7 @@
    <hr>   
  <h3> <img align="center" src="https://i.imgur.com/x1KbuCq.gif" width="600"></h3>
 <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Rinki2301/Rinki2301/main/output-snake.svg">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
  <h3> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; GitHub Analytics</h3>
 <div align="center">
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rinki2301&show_icons=true&locale=en&theme=tokyonight" alt="rinki" /></p>
