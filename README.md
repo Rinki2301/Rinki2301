@@ -44,7 +44,7 @@
  
  ### 🎧 Spotify Playing
  <!--<img src="https://raw.githubusercontent.com/Rinki2301/Rinki2301/main/spotify.gif" width="200" height="200">-->
- <img src="https://raw.githubusercontent.com/Rinki2301/Rinki2301/main/meow_party.gif" height="50">  <img src="https://raw.githubusercontent.com/Rinki2301/Rinki2301/main/meow_party.gif" height="500"> 
+ <img src="https://raw.githubusercontent.com/Rinki2301/Rinki2301/main/meow_party.gif" height="50">  <img src="https://raw.githubusercontent.com/Rinki2301/Rinki2301/main/meow_party.gif" height="50"> 
  <img src="https://raw.githubusercontent.com/Rinki2301/Rinki2301/main/meow_party.gif" height="50">
  <br>
  <a href="https://open.spotify.com/playlist/5Bu2nPf28KSOoHJVo0fIrV">
