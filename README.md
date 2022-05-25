@@ -53,9 +53,11 @@
         <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
     </a>
 </details>
- <a href="https://vercel.com/rinki2301/natemoo-re/EipmiUydTt3hBrYNZqgBYfqFeQ5X/now-playing?open">
-    <img src="https://vercel.com/rinki2301/natemoo-re/EipmiUydTt3hBrYNZqgBYfqFeQ5X/now-playing" width="256" height="64" alt="Now Playing">`
+
+ <a href="https://natemoo-edoa00o0u-rinki2301.vercel.app/now-playing?open">
+    <img src="https://natemoo-edoa00o0u-rinki2301.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
 </a>
+
  <h3> <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px">&nbsp; GitHub Streak</h3>
  
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rinki2301&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=tokyonight)](https://git.io/streak-stats)
