@@ -43,8 +43,12 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rinki2301&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rinki" /></p>
  
  ### 🎧 Spotify Playing
+ 
+ <a href="https://open.spotify.com/playlist/5Bu2nPf28KSOoHJVo0fIrV">
+    <img src="https://natemoo-jd71l7aa7-rinki2301.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+</a>
 
-![spotify-github-profile](default.svg)
+<!--![spotify-github-profile](default.svg)-->
 
 <h2>:zany_face: Joke of the day</h2>
 <details>
@@ -54,9 +58,7 @@
     </a>
 </details>
 
- <a href="https://open.spotify.com/playlist/5Bu2nPf28KSOoHJVo0fIrV">
-    <img src="https://natemoo-jd71l7aa7-rinki2301.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
-</a>
+ 
 
  <h3> <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px">&nbsp; GitHub Streak</h3>
  
