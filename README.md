@@ -54,7 +54,7 @@
     </a>
 </details>
  <a href="https://vercel.com/rinki2301/natemoo-re/EipmiUydTt3hBrYNZqgBYfqFeQ5X/now-playing?open">
-    <img src="https://MY_VERCEL_DEPLOYMENT_URL/now-playing" width="256" height="64" alt="Now Playing">`
+    <img src="https://vercel.com/rinki2301/natemoo-re/EipmiUydTt3hBrYNZqgBYfqFeQ5X/now-playing" width="256" height="64" alt="Now Playing">`
 </a>
  <h3> <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px">&nbsp; GitHub Streak</h3>
  
