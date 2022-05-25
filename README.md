@@ -31,6 +31,8 @@
 <a href="https://www.linkedin.com/in/rinki-raghuwanshi-094a971a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Navinkt/image/main/linked-in-alt.svg" alt="navin-kumar-5748721a7" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/navinkti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="navinkti" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@navinpatnacityn1" target="blank"><img align="center" src="https://raw.githubusercontent.com/Navinkt/image/main/hackerrank.svg" alt="@navinpatnacityn1" height="30" width="40" /></a>
+  <a href="#" target="blank"> &nbsp; <img align="center" src="https://raw.githubusercontent.com/Rinki2301/Rinki2301/main/leet-code.svg" alt="priyanka kothari" height="30" width="40" /> &nbsp; </a>
+<a href="#" target="blank"> &nbsp; <img align="center" src="https://raw.githubusercontent.com/Rinki2301/Rinki2301/main/geeks-for-geeks.svg" alt="coderocks" height="30" width="40" /> &nbsp; </a>
 </p>
 <hr>
 <h3  align="left"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> Languages and Tools:</h3>
