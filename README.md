@@ -63,11 +63,8 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=Rinki2301&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" >
 
    <hr>   
- <h3>🐍 <img align="center" src="https://i.imgur.com/x1KbuCq.gif" width="400"></h3>
+ <h3> <img align="center" src="https://i.imgur.com/x1KbuCq.gif" width="600"></h3>
 <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Rinki2301/Rinki2301/main/output-snake.svg">
-
-
-
  <h3> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; GitHub Analytics</h3>
 <div align="center">
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rinki2301&show_icons=true&locale=en&theme=tokyonight" alt="rinki" /></p>
