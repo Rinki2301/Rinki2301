@@ -43,9 +43,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rinki2301&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rinki" /></p>
  
  ### 🎧 Spotify Playing
- <img src="https://raw.githubusercontent.com/Rinki2301/Rinki2301/main/spotify.gif" width="300" height="400">
+ <img src="https://raw.githubusercontent.com/Rinki2301/Rinki2301/main/spotify.gif" width="200" height="200">
  <a href="https://open.spotify.com/playlist/5Bu2nPf28KSOoHJVo0fIrV">
-    <img src="https://natemoo-jd71l7aa7-rinki2301.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
+    <img src="https://natemoo-jd71l7aa7-rinki2301.vercel.app/now-playing" width="300" height="150" alt="Now Playing">
 </a>
 
 <!--![spotify-github-profile](default.svg)-->
