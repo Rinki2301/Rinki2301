@@ -15,8 +15,6 @@
 <p align ="center">
 <img align= "left" alt="GIF" src="https://raw.githubusercontent.com/Rinki2301/Rinki2301/main/coder.gif" width="500" height="320" /> </p>
 
-
-
 - 🔭 I’m currently working on **Machine learning**
 
 - 🌱 I’m currently learning **Web-Development**
