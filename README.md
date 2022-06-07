@@ -61,7 +61,7 @@
 
  
 
- <h3> <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px">&nbsp; GitHub Streak</h3>
+ <h3> <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" height="25px">&nbsp; GitHub Streak</h3>
  
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rinki2301&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=tokyonight)](https://git.io/streak-stats)
  
