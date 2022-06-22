@@ -85,7 +85,7 @@
       </table>
         <img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?lines=Thanks+for+your+visit!+;Show+%F0%9F%92%95+by+%E2%AD%90+my+repositories!" >
     </a>
-</div>
+</div> 
        
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
 <div align="center" ><img alt="image footer" width="100%" height=50% src="https://raw.githubusercontent.com/Rinki2301/Rinki2301/main/images.png"></div>
